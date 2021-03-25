@@ -1,0 +1,6 @@
+To reproduce the submission of the Kaggle competition, just run:
+>>> python main.py
+
+It may take some time as it will fit three SVM with a mismatch kernel (it should be less than 10 minutes though) and it will output the file "Yte.csv" in the root folder that gave us the best score on the test set.
+
+You can also find in our notebook a friendlier interface to look at what we have done for this challenge. Hopefully it will be understandable.
